@@ -7,7 +7,7 @@ A web application which simulates a jeopardy Quiz. It has 2 dashboards, one for 
 * Jeopardy Quiz
 ![Quiz](/screenshots/jeopardy_quiz.png)
 * Questions Interface
-![Quiz](/screenshots/questions.png)
+![Quiz](/screenshots/question.png)
 * Admin Panel
 ![Quiz](/screenshots/admin_panel.png)
 * Edit Questions
