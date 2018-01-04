@@ -5,15 +5,15 @@ A web application which simulates a jeopardy Quiz. It has 2 dashboards, one for 
 ## Screenshots
 
 * Jeopardy Quiz
-![Quiz](/screenshots/jeopardy_quiz.jpg)
+![Quiz](/screenshots/jeopardy_quiz.png)
 * Questions Interface
-![Quiz](/screenshots/questions.jpg)
+![Quiz](/screenshots/questions.png)
 * Admin Panel
-![Quiz](/screenshots/admin_panel.jpg)
+![Quiz](/screenshots/admin_panel.png)
 * Edit Questions
-![Quiz](/screenshots/question_edit.jpg)
+![Quiz](/screenshots/question_edit.png)
 * Team Panel
-![Quiz](/screenshots/team_panel.jpg)
+![Quiz](/screenshots/team_panel.png)
 
 ### Prerequisites
 
