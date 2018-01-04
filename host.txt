@@ -1,0 +1,25 @@
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b10_21123313
+Control panel password	**********
+Control panel URL
+cpanel.byethost10.com
+MySQL username
+b10_21123313
+MySQL password
+**********
+MySQL hostname
+sql301.byethost10.com
+FTP username
+b10_21123313
+FTP password
+**********
+FTP host name	ftp.byethost10.com
+
+
+Your Website URL's
+Home page
+http://spitchurch.byethost10.com

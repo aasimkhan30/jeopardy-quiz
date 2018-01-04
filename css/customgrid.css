@@ -1,0 +1,118 @@
+.col.grid-example-cat{
+    border: 1px solid #eee;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 50px;
+    font-size: 28px;  #background-color: blue;
+    color: white;
+    padding: 5px;
+}
+
+.col.grid-example-res{
+    border: 1px solid #eee;
+    margin: 0px 0;
+    text-align: center;
+    line-height: 50px;
+    font-size: 28px;
+    background-color: tomato;
+    color: white;
+    padding: 0
+}
+
+
+.col.grid-example span {
+    font-weight: 200;
+    line-height: 50px
+}
+
+
+.modal1 {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #fafafa;
+    padding: 0;
+    max-height: 100%;
+    width: 80%;
+    margin: auto;
+    overflow-y: auto;
+    border-radius: 2px;
+    will-change: top, opacity;
+}
+
+@media only screen and (max-width: 992px) {
+    .modal1 {
+        width: 95%;
+    }
+}
+
+.modal1 h1, .modal1 h2, .modal1 h3, .modal1 h4 {
+    margin-top: 0;
+}
+
+.modal1 .modal1-content {
+    padding: 24px;
+}
+
+.modal1 .modal1-close {
+    cursor: pointer;
+}
+
+.modal1 .modal1-footer {
+    border-radius: 0 0 2px 2px;
+    background-color: #fafafa;
+    padding: 4px 6px;
+    height: 56px;
+    width: 100%;
+}
+
+.modal1 .modal1-footer .btn, .modal1 .modal1-footer .btn-large, .modal1 .modal1-footer .btn-flat {
+    float: right;
+    margin: 6px 0;
+}
+
+.modal1-overlay {
+    position: fixed;
+    z-index: 999;
+    top: -100px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 125%;
+    width: 100%;
+    background: #000;
+    display: none;
+    will-change: opacity;
+}
+
+.modal1.modal1-fixed-footer {
+    padding: 0;
+    height: 80%;
+}
+
+.modal1.modal1-fixed-footer .modal1-content {
+    position: absolute;
+    height: calc(100% - 56px);
+    max-height: 100%;
+    width: 100%;
+    overflow-y: auto;
+}
+
+.modal1.modal1-fixed-footer .modal1-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    position: absolute;
+    bottom: 0;
+}
+
+.modal1.bottom-sheet {
+    top: auto;
+    bottom: -100%;
+    margin: 0;
+    width: 100%;
+    max-height: 45%;
+    border-radius: 0;
+    will-change: bottom, opacity;
+}
+
+

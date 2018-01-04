@@ -1,0 +1,61 @@
+.uk-navbar-container {
+    background-color: #222222 !important;
+}
+.uk-logo{
+    font-size: 35px;
+    font-weight: 100;
+    color: #ffffff;
+}
+
+.uk-logo:hover{
+    color: #ffffff !important;
+    background-color: #222222 !important;
+}
+
+
+a,h1,h2,h3,h4,h5,h6{
+    font-weight: 100;
+
+}
+
+a,input{
+    border-color: #222222 !important;
+}
+
+a:hover,input:hover,input:focus{
+    color:#ffffff !important;
+    background-color: #222222 !important;
+
+
+}
+
+.uk-checkbox:checked,
+.uk-checkbox:indeterminate {
+    background-color: #222222;
+    border-color: transparent;
+}
+.uk-checkbox{
+    background-color: #ffffff;
+}
+
+.navbar-button{
+     color:#fff !important;
+     border-color:#fff !important;
+    border-color:#fff !important;
+
+}
+
+.navbar-button:hover{
+    color:#222 !important;
+    background-color:#fff !important
+}
+
+.gridcell{
+    border-color:#222222 !important;
+    border-width: thick;
+}
+
+.uk-text-lead{
+    font-weight: 100;
+    font-size: 30px;
+}
